@@ -1,0 +1,7 @@
+1. Modefy insert() function so that DUPLICATE ITAMS are not insert
+
+2. Report that Number in the symbol tabel
+
+3.report that IDENTIFIER in the symbol tabel
+
+4. write a function to delete ALL function from the symbol tabel
